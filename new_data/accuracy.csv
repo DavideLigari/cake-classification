@@ -1,0 +1,205 @@
+,Epoch,Feature type,Test accuracy
+0,0,Color Histogram & Edge Direction Histogram,8.666666666666668
+1,100,Color Histogram & Edge Direction Histogram,10.666666666666668
+2,200,Color Histogram & Edge Direction Histogram,15.0
+3,300,Color Histogram & Edge Direction Histogram,16.666666666666664
+4,400,Color Histogram & Edge Direction Histogram,17.666666666666668
+5,500,Color Histogram & Edge Direction Histogram,18.666666666666668
+6,600,Color Histogram & Edge Direction Histogram,18.333333333333332
+7,700,Color Histogram & Edge Direction Histogram,17.666666666666668
+8,800,Color Histogram & Edge Direction Histogram,18.0
+9,900,Color Histogram & Edge Direction Histogram,19.0
+10,1000,Color Histogram & Edge Direction Histogram,19.0
+11,1100,Color Histogram & Edge Direction Histogram,18.666666666666668
+12,1200,Color Histogram & Edge Direction Histogram,18.666666666666668
+13,1300,Color Histogram & Edge Direction Histogram,19.0
+14,1400,Color Histogram & Edge Direction Histogram,19.666666666666664
+15,1500,Color Histogram & Edge Direction Histogram,20.0
+16,1600,Color Histogram & Edge Direction Histogram,20.0
+17,1700,Color Histogram & Edge Direction Histogram,20.333333333333332
+18,1800,Color Histogram & Edge Direction Histogram,20.666666666666668
+19,1900,Color Histogram & Edge Direction Histogram,20.666666666666668
+20,2000,Color Histogram & Edge Direction Histogram,20.666666666666668
+21,2100,Color Histogram & Edge Direction Histogram,20.666666666666668
+22,2200,Color Histogram & Edge Direction Histogram,21.0
+23,2300,Color Histogram & Edge Direction Histogram,22.0
+24,2400,Color Histogram & Edge Direction Histogram,22.0
+25,2500,Color Histogram & Edge Direction Histogram,22.0
+26,2600,Color Histogram & Edge Direction Histogram,22.0
+27,2700,Color Histogram & Edge Direction Histogram,22.0
+28,2800,Color Histogram & Edge Direction Histogram,22.0
+29,2900,Color Histogram & Edge Direction Histogram,22.0
+30,3000,Color Histogram & Edge Direction Histogram,22.0
+31,3100,Color Histogram & Edge Direction Histogram,22.0
+32,3200,Color Histogram & Edge Direction Histogram,22.0
+33,3300,Color Histogram & Edge Direction Histogram,22.0
+34,3400,Color Histogram & Edge Direction Histogram,22.0
+35,3500,Color Histogram & Edge Direction Histogram,22.0
+36,3600,Color Histogram & Edge Direction Histogram,22.0
+37,3700,Color Histogram & Edge Direction Histogram,22.0
+38,3800,Color Histogram & Edge Direction Histogram,22.0
+39,3900,Color Histogram & Edge Direction Histogram,22.0
+40,4000,Color Histogram & Edge Direction Histogram,21.666666666666668
+41,4100,Color Histogram & Edge Direction Histogram,22.0
+42,4200,Color Histogram & Edge Direction Histogram,22.0
+43,4300,Color Histogram & Edge Direction Histogram,22.0
+44,4400,Color Histogram & Edge Direction Histogram,22.0
+45,4500,Color Histogram & Edge Direction Histogram,22.333333333333332
+46,4600,Color Histogram & Edge Direction Histogram,22.333333333333332
+47,4700,Color Histogram & Edge Direction Histogram,22.333333333333332
+48,4800,Color Histogram & Edge Direction Histogram,22.333333333333332
+49,4900,Color Histogram & Edge Direction Histogram,22.333333333333332
+50,5000,Color Histogram & Edge Direction Histogram,22.333333333333332
+51,0,RGB Co-occurrence Matrix & Co-occurrence Matrix,5.666666666666666
+52,100,RGB Co-occurrence Matrix & Co-occurrence Matrix,12.333333333333334
+53,200,RGB Co-occurrence Matrix & Co-occurrence Matrix,13.333333333333334
+54,300,RGB Co-occurrence Matrix & Co-occurrence Matrix,14.333333333333334
+55,400,RGB Co-occurrence Matrix & Co-occurrence Matrix,15.0
+56,500,RGB Co-occurrence Matrix & Co-occurrence Matrix,16.333333333333332
+57,600,RGB Co-occurrence Matrix & Co-occurrence Matrix,17.0
+58,700,RGB Co-occurrence Matrix & Co-occurrence Matrix,17.333333333333336
+59,800,RGB Co-occurrence Matrix & Co-occurrence Matrix,17.333333333333336
+60,900,RGB Co-occurrence Matrix & Co-occurrence Matrix,18.0
+61,1000,RGB Co-occurrence Matrix & Co-occurrence Matrix,17.666666666666668
+62,1100,RGB Co-occurrence Matrix & Co-occurrence Matrix,17.666666666666668
+63,1200,RGB Co-occurrence Matrix & Co-occurrence Matrix,18.0
+64,1300,RGB Co-occurrence Matrix & Co-occurrence Matrix,18.0
+65,1400,RGB Co-occurrence Matrix & Co-occurrence Matrix,18.666666666666668
+66,1500,RGB Co-occurrence Matrix & Co-occurrence Matrix,19.0
+67,1600,RGB Co-occurrence Matrix & Co-occurrence Matrix,19.0
+68,1700,RGB Co-occurrence Matrix & Co-occurrence Matrix,19.333333333333332
+69,1800,RGB Co-occurrence Matrix & Co-occurrence Matrix,19.666666666666664
+70,1900,RGB Co-occurrence Matrix & Co-occurrence Matrix,19.666666666666664
+71,2000,RGB Co-occurrence Matrix & Co-occurrence Matrix,19.0
+72,2100,RGB Co-occurrence Matrix & Co-occurrence Matrix,19.0
+73,2200,RGB Co-occurrence Matrix & Co-occurrence Matrix,19.0
+74,2300,RGB Co-occurrence Matrix & Co-occurrence Matrix,19.0
+75,2400,RGB Co-occurrence Matrix & Co-occurrence Matrix,19.0
+76,2500,RGB Co-occurrence Matrix & Co-occurrence Matrix,19.333333333333332
+77,2600,RGB Co-occurrence Matrix & Co-occurrence Matrix,19.333333333333332
+78,2700,RGB Co-occurrence Matrix & Co-occurrence Matrix,19.666666666666664
+79,2800,RGB Co-occurrence Matrix & Co-occurrence Matrix,20.333333333333332
+80,2900,RGB Co-occurrence Matrix & Co-occurrence Matrix,20.333333333333332
+81,3000,RGB Co-occurrence Matrix & Co-occurrence Matrix,21.0
+82,3100,RGB Co-occurrence Matrix & Co-occurrence Matrix,20.333333333333332
+83,3200,RGB Co-occurrence Matrix & Co-occurrence Matrix,21.333333333333336
+84,3300,RGB Co-occurrence Matrix & Co-occurrence Matrix,21.333333333333336
+85,3400,RGB Co-occurrence Matrix & Co-occurrence Matrix,21.333333333333336
+86,3500,RGB Co-occurrence Matrix & Co-occurrence Matrix,21.333333333333336
+87,3600,RGB Co-occurrence Matrix & Co-occurrence Matrix,21.333333333333336
+88,3700,RGB Co-occurrence Matrix & Co-occurrence Matrix,21.0
+89,3800,RGB Co-occurrence Matrix & Co-occurrence Matrix,21.0
+90,3900,RGB Co-occurrence Matrix & Co-occurrence Matrix,21.0
+91,4000,RGB Co-occurrence Matrix & Co-occurrence Matrix,21.333333333333336
+92,4100,RGB Co-occurrence Matrix & Co-occurrence Matrix,21.333333333333336
+93,4200,RGB Co-occurrence Matrix & Co-occurrence Matrix,21.333333333333336
+94,4300,RGB Co-occurrence Matrix & Co-occurrence Matrix,21.666666666666668
+95,4400,RGB Co-occurrence Matrix & Co-occurrence Matrix,21.666666666666668
+96,4500,RGB Co-occurrence Matrix & Co-occurrence Matrix,21.666666666666668
+97,4600,RGB Co-occurrence Matrix & Co-occurrence Matrix,21.666666666666668
+98,4700,RGB Co-occurrence Matrix & Co-occurrence Matrix,21.666666666666668
+99,4800,RGB Co-occurrence Matrix & Co-occurrence Matrix,21.666666666666668
+100,4900,RGB Co-occurrence Matrix & Co-occurrence Matrix,22.0
+101,5000,RGB Co-occurrence Matrix & Co-occurrence Matrix,22.0
+102,0,All features,6.0
+103,100,All features,13.0
+104,200,All features,14.000000000000002
+105,300,All features,16.0
+106,400,All features,17.666666666666668
+107,500,All features,17.666666666666668
+108,600,All features,18.0
+109,700,All features,18.666666666666668
+110,800,All features,19.333333333333332
+111,900,All features,20.0
+112,1000,All features,20.333333333333332
+113,1100,All features,21.0
+114,1200,All features,21.333333333333336
+115,1300,All features,21.0
+116,1400,All features,21.0
+117,1500,All features,21.333333333333336
+118,1600,All features,21.333333333333336
+119,1700,All features,21.333333333333336
+120,1800,All features,21.0
+121,1900,All features,21.0
+122,2000,All features,21.333333333333336
+123,2100,All features,21.666666666666668
+124,2200,All features,21.666666666666668
+125,2300,All features,21.333333333333336
+126,2400,All features,21.666666666666668
+127,2500,All features,22.0
+128,2600,All features,22.0
+129,2700,All features,22.666666666666664
+130,2800,All features,23.0
+131,2900,All features,24.0
+132,3000,All features,24.333333333333336
+133,3100,All features,24.666666666666668
+134,3200,All features,24.666666666666668
+135,3300,All features,24.666666666666668
+136,3400,All features,24.666666666666668
+137,3500,All features,25.0
+138,3600,All features,25.0
+139,3700,All features,25.0
+140,3800,All features,25.333333333333336
+141,3900,All features,25.333333333333336
+142,4000,All features,25.333333333333336
+143,4100,All features,25.666666666666664
+144,4200,All features,25.666666666666664
+145,4300,All features,25.333333333333336
+146,4400,All features,25.333333333333336
+147,4500,All features,25.0
+148,4600,All features,25.0
+149,4700,All features,25.0
+150,4800,All features,25.333333333333336
+151,4900,All features,25.666666666666664
+152,5000,All features,26.0
+153,0,Edge Direction Histogram & Co-occurrence Matrix,7.333333333333333
+154,100,Edge Direction Histogram & Co-occurrence Matrix,11.333333333333332
+155,200,Edge Direction Histogram & Co-occurrence Matrix,11.666666666666666
+156,300,Edge Direction Histogram & Co-occurrence Matrix,13.0
+157,400,Edge Direction Histogram & Co-occurrence Matrix,15.0
+158,500,Edge Direction Histogram & Co-occurrence Matrix,16.0
+159,600,Edge Direction Histogram & Co-occurrence Matrix,16.333333333333332
+160,700,Edge Direction Histogram & Co-occurrence Matrix,16.333333333333332
+161,800,Edge Direction Histogram & Co-occurrence Matrix,17.333333333333336
+162,900,Edge Direction Histogram & Co-occurrence Matrix,17.666666666666668
+163,1000,Edge Direction Histogram & Co-occurrence Matrix,18.333333333333332
+164,1100,Edge Direction Histogram & Co-occurrence Matrix,18.666666666666668
+165,1200,Edge Direction Histogram & Co-occurrence Matrix,18.666666666666668
+166,1300,Edge Direction Histogram & Co-occurrence Matrix,19.0
+167,1400,Edge Direction Histogram & Co-occurrence Matrix,19.666666666666664
+168,1500,Edge Direction Histogram & Co-occurrence Matrix,19.333333333333332
+169,1600,Edge Direction Histogram & Co-occurrence Matrix,19.333333333333332
+170,1700,Edge Direction Histogram & Co-occurrence Matrix,19.333333333333332
+171,1800,Edge Direction Histogram & Co-occurrence Matrix,19.333333333333332
+172,1900,Edge Direction Histogram & Co-occurrence Matrix,19.666666666666664
+173,2000,Edge Direction Histogram & Co-occurrence Matrix,20.0
+174,2100,Edge Direction Histogram & Co-occurrence Matrix,20.0
+175,2200,Edge Direction Histogram & Co-occurrence Matrix,19.333333333333332
+176,2300,Edge Direction Histogram & Co-occurrence Matrix,19.666666666666664
+177,2400,Edge Direction Histogram & Co-occurrence Matrix,19.666666666666664
+178,2500,Edge Direction Histogram & Co-occurrence Matrix,19.666666666666664
+179,2600,Edge Direction Histogram & Co-occurrence Matrix,19.666666666666664
+180,2700,Edge Direction Histogram & Co-occurrence Matrix,20.0
+181,2800,Edge Direction Histogram & Co-occurrence Matrix,20.333333333333332
+182,2900,Edge Direction Histogram & Co-occurrence Matrix,20.0
+183,3000,Edge Direction Histogram & Co-occurrence Matrix,20.333333333333332
+184,3100,Edge Direction Histogram & Co-occurrence Matrix,20.666666666666668
+185,3200,Edge Direction Histogram & Co-occurrence Matrix,20.666666666666668
+186,3300,Edge Direction Histogram & Co-occurrence Matrix,21.0
+187,3400,Edge Direction Histogram & Co-occurrence Matrix,21.0
+188,3500,Edge Direction Histogram & Co-occurrence Matrix,21.666666666666668
+189,3600,Edge Direction Histogram & Co-occurrence Matrix,21.666666666666668
+190,3700,Edge Direction Histogram & Co-occurrence Matrix,21.666666666666668
+191,3800,Edge Direction Histogram & Co-occurrence Matrix,21.666666666666668
+192,3900,Edge Direction Histogram & Co-occurrence Matrix,21.666666666666668
+193,4000,Edge Direction Histogram & Co-occurrence Matrix,21.666666666666668
+194,4100,Edge Direction Histogram & Co-occurrence Matrix,21.666666666666668
+195,4200,Edge Direction Histogram & Co-occurrence Matrix,21.666666666666668
+196,4300,Edge Direction Histogram & Co-occurrence Matrix,21.666666666666668
+197,4400,Edge Direction Histogram & Co-occurrence Matrix,22.0
+198,4500,Edge Direction Histogram & Co-occurrence Matrix,22.0
+199,4600,Edge Direction Histogram & Co-occurrence Matrix,22.0
+200,4700,Edge Direction Histogram & Co-occurrence Matrix,22.0
+201,4800,Edge Direction Histogram & Co-occurrence Matrix,22.333333333333332
+202,4900,Edge Direction Histogram & Co-occurrence Matrix,22.0
+203,5000,Edge Direction Histogram & Co-occurrence Matrix,22.0
