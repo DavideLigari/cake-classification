@@ -22,6 +22,6 @@ The project aims to enhance the overall image recognition accuracy by experiment
 
 ## Contact
 
-If you have any questions or need further information about this project, please feel free to contact Davide Ligari via email at davide.ligari01@gmail.com
+If you have any questions or need further information about this project, please feel free to contact me via email at davide.ligari01@gmail.com
 
 Thank you for your interest in this image recognition project!
